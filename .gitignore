@@ -1,0 +1,4 @@
+Auto_Si9000.spec
+build/*
+dist/*
+__pycache__/*
